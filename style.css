@@ -1,0 +1,55 @@
+body {
+	background-color:aquamarine;
+  text-align: center;
+
+}
+
+h2 {
+  color:#00008b;
+  font-weight: bold;
+  font-size:30px;
+  margin:10px;
+}
+
+
+h3, 
+h4, 
+h5,
+h6,
+h7 
+ {
+  color:purple;
+  font-weight: bold;
+  font-size: 20px;
+  margin:10px;
+  
+}
+
+.noBullets {
+  list-style:none;
+  text-align: center;
+  margin:10px;
+}
+
+.noBullets2 {
+  list-style:none;
+  text-align: center;
+  margin:10px;
+}
+
+.noBullets3 {
+  list-style:none;
+  text-align: center;
+  margin:10px;
+}
+
+.about {
+  border-style: dashed;
+  border-width: 3px;
+  margin:10px;
+}
+
+p {
+  margin:10px;
+}
+
